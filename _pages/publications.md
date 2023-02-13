@@ -5,12 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2022
 
-{% include base_path %}
+**[PromptSum: Planning with Mixed Prompts for Parameter-Efficient Controllable Abstractive Summarization](https://openreview.net/forum?id=FEBCwrGzR3j)** <br>
+Mathieu Ravaut, Hailin Chen, **Ruochen Zhao**, Chengwei Qin, Shafiq Joty, Nancy F. Chen <br>
+OpenReview <br>
+[Paper](https://openreview.net/forum?id=FEBCwrGzR3j)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**[Towards Causal Concepts for Explaining Language Models](https://openreview.net/forum?id=xYy2l4tiOe)** <br>
+**Ruochen Zhao**, Shafiq Joty, Yongjie Wang, Prathyusha Jwalapuram <br>
+OpenReview <br>
+[Paper](https://openreview.net/forum?id=xYy2l4tiOe)
+
+**[Randomized Smoothing with Masked Inference for Adversarially Robust NLP Systems](https://openreview.net/forum?id=zgWbA-AecP)** <br>
+Han Cheol Moon, Shafiq Joty, **Ruochen Zhao**, Megh Thakkar, Xu Chi <br>
+OpenReview <br>
+[Paper](https://openreview.net/forum?id=zgWbA-AecP)
