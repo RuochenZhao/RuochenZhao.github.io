@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[My resume is here.](http://xingxuanli.github.io/files/resume.pdf)
+[My resume is here.](http://RuochenZhao.github.io/files/resume.pdf)
