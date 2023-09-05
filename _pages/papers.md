@@ -18,7 +18,7 @@ arxiv (in submission) <br>
 [Paper](https://arxiv.org/pdf/2305.13269.pdf)
 
 **[Retrieving multimodal information for augmented generation: A survey](https://arxiv.org/pdf/2303.10868.pdf)** <br>
-Ruochen Zhao, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty <br>
+**Ruochen Zhao**, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty <br>
 arxiv (in submission) <br>
 [Paper](https://arxiv.org/pdf/2303.10868.pdf)
 
