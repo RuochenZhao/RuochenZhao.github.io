@@ -14,6 +14,11 @@ ICLR 2024 <br>
 
 ## 2023
 
+**[ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?](https://arxiv.org/abs/2311.16989)** <br>
+Hailin Chen\*, Fangkai Jiao\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, **Ruochen Zhao\***, Caiming Xiong, Shafiq Joty <br>
+arxiv <br>
+[Paper](https://arxiv.org/pdf/2303.10868.pdf)
+
 **[Retrieving multimodal information for augmented generation: A survey](https://arxiv.org/pdf/2303.10868.pdf)** <br>
 **Ruochen Zhao**, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty <br>
 EMNLP 2023 Findings <br>
@@ -31,7 +36,7 @@ ACL 2023 <br>
 
 **[Explaining Language Models' Predictions with High-Impact Concepts](https://arxiv.org/abs/2305.02160)** <br>
 **Ruochen Zhao**, Shafiq Joty, Yongjie Wang, Tan Wang <br>
-arxiv (in submission) <br>
+arxiv <br>
 [Paper](https://arxiv.org/abs/2305.02160)
 
 ## 2022
