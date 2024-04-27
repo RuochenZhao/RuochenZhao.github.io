@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2024
 
+**[Explaining Language Models' Predictions with High-Impact Concepts](https://arxiv.org/abs/2305.02160)** <br>
+**Ruochen Zhao**, Shafiq Joty, Yongjie Wang, Tan Wang <br>
+EACL 2024 Findings <br>
+[Paper](https://arxiv.org/abs/2305.02160)
+
 **[Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases](https://arxiv.org/pdf/2305.13269.pdf)** <br>
 Xingxuan Li\*, **Ruochen Zhao\***, Yew Ken Chia\*, Bosheng Ding, Lidong Bing, Shafiq Joty, Soujanya Poria <br>
 ICLR 2024 <br>
@@ -33,11 +38,6 @@ ACL 2023 <br>
 Han Cheol Moon, Shafiq Joty, **Ruochen Zhao**, Megh Thakkar, Xu Chi <br>
 ACL 2023 <br>
 [Paper](https://arxiv.org/abs/2305.06522)
-
-**[Explaining Language Models' Predictions with High-Impact Concepts](https://arxiv.org/abs/2305.02160)** <br>
-**Ruochen Zhao**, Shafiq Joty, Yongjie Wang, Tan Wang <br>
-arxiv <br>
-[Paper](https://arxiv.org/abs/2305.02160)
 
 ## 2022
 
