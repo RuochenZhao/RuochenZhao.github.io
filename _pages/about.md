@@ -48,7 +48,7 @@ I graduated my PhD in August 2024. Prior to my Ph.D. journey, I received my B.S.
 ---
 Here is a taste of what I enjoy doing!
 
-#### Designing Single and Multi-Agent Systems for Diverse Tasks
+**Designing Single and Multi-Agent Systems for Diverse Tasks**
 
 **[AgREE: Agentic Reasoning for Knowledge Graph Completion on Emerging Entities](https://arxiv.org/abs/2508.04118)** <br>
 **Ruochen Zhao**, Simone Conia, Eric Peng, Min Li, Saloni Potdar <br>
@@ -65,7 +65,7 @@ Long Li, Weiwen Xu, Jiayan Guo, **Ruochen Zhao**, Xingxuan Li, Yuqian Yuan, Boqi
 EMNLP 2025 Findings <br>
 [Paper](https://arxiv.org/abs/2410.13185)
 
-#### Give LLMs Tools and Reasoning Abilities like Humans
+**Give LLMs Tools and Reasoning Abilities like Humans**
 
 **[Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks](https://arxiv.org/abs/2410.01428)** <br>
 Xingxuan Li, Weiwen Xu, **Ruochen Zhao**, Fangkai Jiao, Shafiq Joty, Lidong Bing <br>
@@ -87,7 +87,7 @@ EMNLP 2023 Findings <br>
 ACL 2023 Main <br>
 [Paper](https://aclanthology.org/2023.acl-long.320/)
 
-#### Making LLMs more Trustworthy and Transparent
+**Making LLMs more Trustworthy and Transparent**
 
 **[Explaining Language Models' Predictions with High-Impact Concepts](https://arxiv.org/abs/2305.02160)** <br>
 **Ruochen Zhao**, Shafiq Joty, Yongjie Wang, Tan Wang <br>
@@ -100,7 +100,7 @@ ACL 2023 Main <br>
 [Paper](https://arxiv.org/abs/2305.06522)
 
 
-#### Just Thinking About LLMs and NLP In General
+**Just Thinking About LLMs and NLP In General**
 
 **[How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library](https://openreview.net/forum?id=ygIz4SK4Wm)** <br>
 Mathieu Ravaut, Bosheng Ding, Fangkai Jiao, Hailin Chen, Xingxuan Li, **Ruochen Zhao**, Chengwei Qin, Caiming Xiong, Shafiq Joty <br>
