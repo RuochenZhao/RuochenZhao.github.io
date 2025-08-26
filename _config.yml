@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Ruochen Zhao"
-  avatar           : "citations.jpeg"
-  bio              : "Ph.D. student working in NLP"
+  avatar           : "citations.jpg"
+  bio              : "Researcher in LLM Agents"
   location         : "Singapore"
-  employer         : "Nanyang Technological University"
+  employer         : "NTU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=l9qSoK4AAAAJ&hl=en"
-  email            : "ruochen002@e.ntu.edu.sg"
+  email            : "zrc.esther@Gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
