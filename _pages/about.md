@@ -8,23 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruochen, feel free to call me Esther. In Chinese, my name is 赵若辰, which translates to "like a star". I'm currently a research engineer at Apple. I hold a Ph.D. from Nanyang Technological University ([NTU-NLP](https://ntunlpsg.github.io/)), advised by Associate Professor [Shafiq Joty](https://raihanjoty.github.io/). I am currently focusing on the topic of LLM Agents, trustworthiness and reliability, with interests in **Agents, LLMs, and reasoning**. Specifically, I am intrigued by the research question of endowing LLMs with reasoning abilities by mimicing human thinking processes.
+<!-- My name is Ruochen, feel free to call me Esther. In Chinese, my name is 赵若辰, which translates to "like a star" ⭐.  -->
+I am currently a Tenure-Track Assistant Professor at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/istd/). Prior to this, I worked at Apple Singapore as a research engineer, designing LLM-based products. I obtained my Ph.D. from the [NTU-NLP](https://ntunlpsg.github.io/) Lab at Nanyang Technological University, advised by Associate Professor [Shafiq Joty](https://raihanjoty.github.io/) and Associate Professor [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and supported by the AI.SG Scholarship. For research directions, I enjoy working on the topic of **LLM Agents**, with the goal of **trustworthiness and reliability**. Specifically, I am intrigued by the research question of endowing LLM agents with reasoning abilities by mimicing human thinking processes.
 
-I graduated my PhD in August 2024. Prior to my Ph.D. journey, I received my B.S. in Mathematics from Courant Institute, New York University. I then graduated with an M.S. in Data Science from Harvard University. After spending 6 years in the U.S., I returned to Asia and have been staying in Singapore for 4 years now.
+<div style="background: linear-gradient(135deg, #ffcdb2, #ffb4a2); border-left: 5px solid #b5838d; border-radius: 6px; padding: 14px 18px; margin: 20px 0; box-shadow: 0 2px 8px rgba(181,131,141,0.2);">
+  <strong>🌟 I am currently recruiting a PhD student, starting in Jan 2027. The position will be fully funded by SUTD scholarship.</strong> Students with relevant research or publication experience will be preferred. More details could be found <a href="#" style="color: #6d6875; font-weight: bold;">[here]</a>.
+</div>
+
+Prior to my Ph.D. journey, I received my B.S. in Mathematics from Courant Institute, New York University (NYU). I then graduated with an M.S. in Data Science from Harvard University. After spending 6 years in the U.S., I returned to Asia and have been staying in Singapore.
 
 ## News
 ---
 <div class="news">
   <ul>
+    <li><strong>[May 2026]</strong> I will be joining <a href="https://www.sutd.edu.sg/">Singapore University of Technology and Design (SUTD)</a> as a Tenure-Track Assistant Professor! <strong><span style="color: #b5838d;">I am looking for Ph.D. students joining in Jan. 2027.</span></strong></li>
+    <li><strong>[Apr 2026]</strong> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l9qSoK4AAAAJ&citation_for_view=l9qSoK4AAAAJ:KlAtU1dfN6UC">DR-Arena</a> (Deep-Research Arena) is accepted to ACL 2026.</li>
     <li><strong>[Aug 2025]</strong> I received the <a href="https://www.scs.org.sg/awards/sg100wit/2025">SG100WIT</a> 2025 Award (Singapore 100 Women in Tech)! Really appreciate the recognition. </li>
-    <li><strong>[May 2025]</strong> Auto-Arena is accepted to ACL 2025.</li>
+    <li><strong>[May 2025]</strong> <a href="https://aclanthology.org/2025.acl-long.223/">Auto-Arena</a> is accepted to ACL 2025.</li>
     <li><strong>[Aug 2024]</strong> Successfully defended my PhD thesis and joined Apple as a research engineer. Many thanks to my supervisors.</li>
   </ul>
 </div>
 <style>
 .news {
-  background-color: #f8f9fa;
-  border-left: 4px solid #007bff;
+  background-color: #fdf6f4;
+  border-left: 4px solid #b5838d;
   padding: 15px;
   margin: 20px 0;
   border-radius: 4px;
@@ -41,74 +48,7 @@ I graduated my PhD in August 2024. Prior to my Ph.D. journey, I received my B.S.
 }
 
 .news strong {
-  color: #007bff;
+  color: #6d6875;
 }
 </style>
 
-## Publications
----
-Here is a taste of what I enjoy doing!
-
-### Designing Single and Multi-Agent Systems for Diverse Tasks
-
-**[AgREE: Agentic Reasoning for Knowledge Graph Completion on Emerging Entities](https://arxiv.org/abs/2508.04118)** <br>
-**Ruochen Zhao**, Simone Conia, Eric Peng, Min Li, Saloni Potdar <br>
-Currently on arxiv <br>
-[Paper](https://arxiv.org/abs/2508.04118)
-
-**[Auto-Arena of LLMs: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions](https://arxiv.org/abs/2405.20267)** <br>
-**Ruochen Zhao**, Wenxuan Zhang, Yew Ken Chia, Deli Zhao, Lidong Bing <br>
-ACL 2025 Main <br>
-[Paper](https://arxiv.org/abs/2405.20267)
-
-**[Chain of Ideas: Revolutionizing Research via Novel Idea Development with LLM Agents](https://arxiv.org/abs/2410.13185)** <br>
-Long Li, Weiwen Xu, Jiayan Guo, **Ruochen Zhao**, Xingxuan Li, Yuqian Yuan, Boqiang Zhang, Yuming Jiang, Yifei Xin, Ronghao Dang, Deli Zhao, Yu Rong, Tian Feng, Lidong Bing <br>
-EMNLP 2025 Findings <br>
-[Paper](https://arxiv.org/abs/2410.13185)
-
-### Give LLMs Tools and Reasoning Abilities like Humans
-
-**[Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks](https://arxiv.org/abs/2410.01428)** <br>
-Xingxuan Li, Weiwen Xu, **Ruochen Zhao**, Fangkai Jiao, Shafiq Joty, Lidong Bing <br>
-ACL 2025 Main <br>
-[Paper](https://arxiv.org/abs/2410.01428)
-
-**[Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases](https://arxiv.org/pdf/2305.13269.pdf)** <br>
-Xingxuan Li\*, **Ruochen Zhao\***, Yew Ken Chia\*, Bosheng Ding, Lidong Bing, Shafiq Joty, Soujanya Poria <br>
-ICLR 2024 <br>
-[Paper](https://arxiv.org/pdf/2305.13269.pdf)
-
-**[Retrieving Multimodal Information for Augmented Generation: A Survey](https://arxiv.org/pdf/2303.10868.pdf)** <br>
-**Ruochen Zhao**, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty <br>
-EMNLP 2023 Findings <br>
-[Paper](https://arxiv.org/pdf/2303.10868.pdf)
-
-**[Verify-and-Edit: A Knowledge-Enhanced Chain-of-thought Framework](https://aclanthology.org/2023.acl-long.320/)** <br>
-**Ruochen Zhao\***, Xingxuan Li\*, Shafiq Joty, Chengwei Qin, Lidong Bing <br>
-ACL 2023 Main <br>
-[Paper](https://aclanthology.org/2023.acl-long.320/)
-
-### Making LLMs more Trustworthy and Transparent
-
-**[Explaining Language Models' Predictions with High-Impact Concepts](https://arxiv.org/abs/2305.02160)** <br>
-**Ruochen Zhao**, Shafiq Joty, Yongjie Wang, Tan Wang <br>
-EACL 2024 Findings <br>
-[Paper](https://arxiv.org/abs/2305.02160)
-
-**[Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications](https://arxiv.org/abs/2305.06522)** <br>
-Han Cheol Moon, Shafiq Joty, **Ruochen Zhao**, Megh Thakkar, Xu Chi <br>
-ACL 2023 Main <br>
-[Paper](https://arxiv.org/abs/2305.06522)
-
-
-### Just Thinking About LLMs and NLP In General
-
-**[How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library](https://openreview.net/forum?id=ygIz4SK4Wm)** <br>
-Mathieu Ravaut, Bosheng Ding, Fangkai Jiao, Hailin Chen, Xingxuan Li, **Ruochen Zhao**, Chengwei Qin, Caiming Xiong, Shafiq Joty <br>
-CoRR 2024 <br>
-[Paper](https://openreview.net/forum?id=ygIz4SK4Wm)
-
-**[ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?](https://arxiv.org/abs/2311.16989)** <br>
-Hailin Chen\*, Fangkai Jiao\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, **Ruochen Zhao\***, Caiming Xiong, Shafiq Joty <br>
-arxiv <br>
-[Paper](https://arxiv.org/pdf/2303.10868.pdf)

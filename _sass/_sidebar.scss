@@ -113,21 +113,39 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 10px;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
+  margin-bottom: 10px;
+}
+
+.author__name-zh {
+  margin: -6px 0 10px;
+  color: #999;
+  font-family: $sans-serif;
+}
+
+.sidebar .author__name-zh {
+  font-size: $type-size-4;
 }
 
 .author__bio {
   margin: 0;
+  font-size: $type-size-5;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 4px;
   }
+}
+
+.author__bio-email {
+  margin: 0 0 20px;
+  font-size: $type-size-6;
+  color: #888;
+  font-family: $sans-serif;
 }
 
 .author__urls-wrapper {

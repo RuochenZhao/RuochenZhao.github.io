@@ -81,10 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Ruochen Zhao"
+  name_zh          : "赵若辰"
   avatar           : "citations.jpg"
   bio              : "Researcher in LLM Agents"
+  bio_email        : "ruochen002 [at] e.ntu.edu.sg"
   location         : "Singapore"
-  employer         : "NTU"
+  employer         : #"NTU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=l9qSoK4AAAAJ&hl=en"
   email            : "zrc.esther@Gmail.com"
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RuochenZhao"
+  github           : #"RuochenZhao"
   google_plus      :
   keybase          :
   instagram        :
