@@ -5,7 +5,7 @@ permalink: /openings/
 author_profile: true
 ---
 
-Thank you for your interest in joining my group! I'm always looking for motivated students and collaborators. As a mentor, I take a hands-on approach and am invested in my students' growth. I believe the most important part of research is identifying problems that are genuinely interesting and impactful. Please refer to the openings and application procedures below to start working with me:
+Thank you for your interest in joining my group! I'm looking for motivated students and collaborators. As a mentor, I take a hands-on approach and am invested in my students' growth. I believe the most important part of research is identifying problems that are genuinely interesting and impactful. Please refer to the openings and application procedures below to start working with me:
 
 <div class="opening-card" markdown="1">
 ## Current Openings
