@@ -84,12 +84,12 @@ author:
   name_zh          : "赵若辰"
   avatar           : "citations.jpg"
   bio              : "Researcher in LLM Agents"
-  bio_email        : "ruochen002 [at] e.ntu.edu.sg"
+  bio_email        : "esther_zhao [at] sutd [dot] edu [dot] sg"
   location         : "Singapore"
   employer         : #"NTU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=l9qSoK4AAAAJ&hl=en"
-  email            : "zrc.esther@Gmail.com"
+  email            : "esther_zhao@sutd.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

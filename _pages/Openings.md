@@ -18,7 +18,7 @@ Thank you for your interest in joining my group! I'm looking for motivated stude
 <div class="opening-card" markdown="1">
 ## How to Apply
 
-If you are interested in any of the positions listed above, feel free to email me at **ruochen002 [at] e.ntu.edu.sg** with the following:
+If you are interested in any of the positions listed above, feel free to email me at **esther_zhao [at] sutd.edu.sg** with the following:
 
 - **Email subject:** Position-Start Time-Name-Affiliation (e.g., *"PhD-Jan 2027-Annie-SMU"*).
 - **Required materials:** Curriculum Vitae (CV) or Resume.
