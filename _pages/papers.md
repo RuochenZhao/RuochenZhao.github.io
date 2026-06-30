@@ -28,7 +28,7 @@ EMNLP 2025 Findings <br>
 </div>
 
 <div class="paper-section" markdown="1">
-<h2>Give LLMs Tools and Reasoning Abilities like Humans</h2>
+<h2>Giving LLMs Tools and Reasoning Abilities like Humans</h2>
 
 **[Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks](https://arxiv.org/abs/2410.01428)** <br>
 Xingxuan Li, Weiwen Xu, **Ruochen Zhao**, Fangkai Jiao, Shafiq Joty, Lidong Bing <br>
