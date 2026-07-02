@@ -10,10 +10,16 @@ Thank you for your interest in joining my group! I'm looking for motivated stude
 <div class="opening-card" markdown="1">
 ## Current Openings
 
-- **PhD Student — Jan 2027 Intake:** 1 position available (application deadline: Sep 2026).
+- **PhD Student — Jan 2027 Intake:** (application deadline: Sep 2026).
   - You can apply to SUTD's [PhD program](https://www.sutd.edu.sg/programme-listing/sutd-phd-programme/) and list me as a potential advisor. This position is fully supported by the SUTD Scholarship. Students with prior research or publication experience in LLMs, NLP, or related areas will be preferred.
-- **Remote RAs/Interns:**
-  - I am looking for collaborators to work together on research ideas. If interested, please share your resume with me over as detailed in the next section. You can also note down your possible time commitment. 
+  - If you have **Singaporean citizenship / PR status**, please make a note in your email. Possible Industry Postgraduate Programme (IPP) sponsorship could be arranged.
+- **RAs/Interns:**
+  - I am looking for collaborators to work together on research ideas. If interested, please share your resume with me over as detailed in the next section. You can also note down your possible time commitment and whether you'd prefer onsite or remote collaboration.
+- **Visiting Students:**
+  - CSC-supported students are welcome to visit.
+- **Postdocs:**
+  - I am happy to co-supervisor Postdocs with Assistant Professor [Wenxuan Zhang](https://isakzhang.github.io/).
+
 
 </div>
 
