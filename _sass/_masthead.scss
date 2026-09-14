@@ -63,18 +63,16 @@
     a {
       display: inline-block;
       background: transparent;
-      border-bottom: 2px solid transparent;
+      border-bottom: none;
       padding: 0.25em 0.1em;
       font-weight: 600;
       font-size: 0.95em;
       color: #6d6875 !important;
       letter-spacing: 0.03em;
-      transition: color 0.15s, border-color 0.15s, box-shadow 0.15s;
+      transition: color 0.15s;
 
       &:hover {
         color: #b5838d !important;
-        border-bottom-color: #6d6875;
-        box-shadow: 0 2px 4px rgba(109, 104, 117, 0.4);
       }
     }
   }

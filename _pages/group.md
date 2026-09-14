@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="group-intro" markdown="1">
-We work on **LLM Agents**, with a focus on **trustworthiness and reliability**. We are part of the [ISTD pillar](https://www.sutd.edu.sg/istd/) at Singapore University of Technology and Design (SUTD). Please see the [Openings](/openings/) page if you are interested in joining us.
+We work on **LLM Agents**, with a focus on **trustworthiness and reliability**. We are part of the [ISTD pillar](https://www.sutd.edu.sg/istd/) at Singapore University of Technology and Design (SUTD). We are still growing. Please see the [Openings](/openings/) page if you are interested in joining us.
 </div>
 
 ---
@@ -31,7 +31,7 @@ We work on **LLM Agents**, with a focus on **trustworthiness and reliability**. 
   <img src="/images/camille_photo.jpeg" alt="Student Photo" class="member-photo">
   <div class="member-info">
     <p class="member-name"><a href="https://www.linkedin.com/in/camille-lannoye/">Camille Lannoye</a></p>
-    <p class="member-meta">Visiting Assistant (2026.9 –)</p>
+    <p class="member-meta">Visiting Student (2026.9 –)</p>
     <p class="member-research">LLM Agent Simulations</p>
   </div>
 </div>
